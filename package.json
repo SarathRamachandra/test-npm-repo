@@ -1,0 +1,22 @@
+{
+  "name": "@SarathRamachandra/test-npm-repo",
+  "version": "1.0.0",
+  "description": "Test npm package repo with math utils of addition and subtraction",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarathRamachandra/test-npm-repo.git"
+  },
+  "author": "SarathRamachandra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SarathRamachandra/test-npm-repo/issues"
+  },
+  "homepage": "https://github.com/SarathRamachandra/test-npm-repo#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
