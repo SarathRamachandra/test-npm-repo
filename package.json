@@ -1,6 +1,6 @@
 {
   "name": "@SarathRamachandra/test-npm-repo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test npm package repo with math utils of addition and subtraction",
   "main": "src/index.js",
   "scripts": {
