@@ -1,6 +1,6 @@
 {
-  "name": "@SarathRamachandra/test-npm-repo",
-  "version": "1.0.2",
+  "name": "@sarathramachandra/test-npm-repo",
+  "version": "1.0.5",
   "description": "Test npm package repo with math utils of addition and subtraction",
   "main": "src/index.js",
   "scripts": {
@@ -16,7 +16,4 @@
     "url": "https://github.com/SarathRamachandra/test-npm-repo/issues"
   },
   "homepage": "https://github.com/SarathRamachandra/test-npm-repo#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
 }
